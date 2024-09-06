@@ -1,0 +1,21 @@
+.nav-items {
+  list-style: none;
+  display: flex;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items > li {
+  padding: 10px;
+}
+.nav-logo {
+  width: 70px;
+}
+.footer {
+  background-color: #766f6f76;
+  text-align: center;
+  padding: 1em 0;
+}
